@@ -17,10 +17,10 @@ This repository documents the end-to-end security implementation for a multi-VLA
   ├─ WAN ─── DHCP Static IP, forwarding enabled
   │
   ├─ LAN1: InfraNet (10.20.10.0/24)
-  │    ├── Dell R630 Server
-  │    ├── Dell R730 Server
-  │    ├── AK1 Mini PC
-  │    ├── KAMRUI Mini PC
+  │    ├── Dell A Server
+  │    ├── Dell B Server
+  │    ├── AK1 MICRO PC
+  │    ├── KAMRUI MICRO PC
   │    └── Managed Switch
   │
   └─ LAN2: OfficeNet (10.30.0.0/24)
