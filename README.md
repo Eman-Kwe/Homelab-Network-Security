@@ -23,7 +23,7 @@ This repository documents the end-to-end security implementation for a multi-VLA
   │    ├── KAMRUI MICRO PC
   │    └── Managed Switch
   │
-  └─ LAN2: OfficeNet (10.30.0.0/24)
+  └─ LAN2: OfficeNet (10.30.10.0/24)
        ├── Netgear AP (Bridge Mode)
        ├── Dev Workstations
        └── Docked Laptops
